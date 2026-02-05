@@ -36,7 +36,7 @@ Instead of predicting only *Yes / No*, this system calculates **Dropout Risk Pro
 
 > 📸 *Live Streamlit Dashboard*
 
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](https://github.com/foziaali1122/FemHackathon-Project-/blob/main/Student%20Dropout%20Early%20Warning%20System%20-%20Profile%201%20-%20Microsoft%E2%80%8B%20Edge%202_4_2026%208_52_06%20PM.png)
 
 ---
 
